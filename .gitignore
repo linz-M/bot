@@ -1,5 +1,8 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+#module
+node_modules
+config.js
+**.mp3
+**.opus
+**.mp4
+**.webp
+**.exif
