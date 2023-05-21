@@ -89,7 +89,7 @@ global.reload = (path) => {
 	}
 };
 //globall
-global.owner = ["639162506299@s.whatsapp.net", "6289506883380@s.whatsapp.net", "6281990498472@s.whatsapp.net"]; //owner
+global.owner = ["62882790868123@s.whatsapp.net", "6288708093453@s.whatsapp.net"]; //owner
 const bahasa = "en"; // en/id
 global.response = response[bahasa];
 global.users = JSON.parse(fs.readFileSync('./database/json/user.json'))
